@@ -17,4 +17,4 @@ Concepts like :
 - Error analysis
 
 
-I mainly used SGDClassifier and RandomForestClassifier for my predictions and am currently working on improving the accuracy using KNN model.
+I mainly used SGDClassifier and RandomForestClassifier for my predictions and I'm currently working on improving this accuracy using KNN model.
