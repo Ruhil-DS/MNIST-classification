@@ -9,7 +9,7 @@ With this classification project, i learnt many new tricks and concepts.
 
 Concepts like :
 - Using OvO & OvR used for multiclass classification
-- Confusion matric
+- Confusion matrix
 - cross_val_predict and cross_val_score
 - Precision recall tradeoff
 - ROC curve, area under roc curve
