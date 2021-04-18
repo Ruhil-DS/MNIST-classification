@@ -12,7 +12,7 @@ Concepts like :
 - Confusion matrix
 - cross_val_predict and cross_val_score
 - Precision recall tradeoff
-- ROC curve, area under roc curve
+- ROC curve, area under ROC curve
 - Displaying the digit using the pixel intensities provided.
 - Error analysis
 
